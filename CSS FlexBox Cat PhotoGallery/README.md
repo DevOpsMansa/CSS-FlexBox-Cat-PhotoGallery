@@ -1,1 +1,2 @@
-# Used the most common HTML tags by building a cat photo app.
+# CSS-FlexBox-Cat-PhotoGallery
+## Used Flexbox to build a responsive photo gallery webpage.
